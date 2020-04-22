@@ -1,2 +1,2 @@
 # BasicMVVMTemplate
-A basic MVVM template for android using Retrofit, Kotlin coroutines, Dagger et Android Architecture Components.
+A basic MVVM template for android using Retrofit, Kotlin coroutines, Dagger and Android Architecture Components.
